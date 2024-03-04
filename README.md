@@ -16,10 +16,16 @@ All the database table converted into dataframe using python pandas library
 create interactive and visually appealing
 dashboards for data visualization using  Streamlit and Plotly charts.
 created four pages in streamlit part:
+
 1.Introduction of phonepe 
+
 2.Insights
+
 3.Data exploration
+
 4.Top charts
+
+
 
 
 
